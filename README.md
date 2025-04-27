@@ -1,3 +1,4 @@
-YoHold Tech
-昱航智能科技有限公司
 We are a technology company from China, built on a strong foundation of academic research and a passionate dedication to innovation. Leveraging the unparalleled advantages of China's advanced manufacturing ecosystem, we bring cutting-edge, futuristic products to technology enthusiasts around the world — all at remarkably affordable prices. Here, the sci-fi dreams you once imagined can become reality at the lowest possible cost. At present, we offer a range of solutions and ready-to-use kits for some of the most exciting fields in technology, including flying cars, humanoid robots, intelligent robotic chassis, and more. Thanks to the efficiency and scale of the Chinese manufacturing industry, all of our products combine exceptional performance with pricing that is beyond imagination. One of our flagship products — a manned quadcopter (personal flying vehicle) — is available for under $20,000 (excluding customs duties and shipping costs; the final price may vary depending on your location). If you are interested in ordering or learning more, please contact us via email: yohold.tech@outlook.com.
+
+
+
